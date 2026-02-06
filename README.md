@@ -1,81 +1,67 @@
-# Hello, I'm Önder Bakır! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9d4edd&height=180&section=header&text=Önder%20Bakır&fontSize=58&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Information%20Systems%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=onder007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
+<h3 align="center">
+Web Engineer · AI Automation · Mobile (Flutter)
+</h3>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=onder007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="onder007 trophies" />
-  </a>
-</div>
-
-### 🚀 About Me
-
-I am an **Information Systems Engineering** student at **Mehmet Akif Ersoy University**. I have a strong passion for software development and IT technologies. I am an investigative, fast learner with strong analytical thinking skills. My goal is to apply my technical skills in real-world business environments and gain further industry experience.
-
-* 🔭 I am currently working on **Deep Learning and OOP** concepts.
-* 🌱 I develop data analysis and automation processes using **Python and SQL**.
-* 🎓 I gained experience as an **Engineering Intern** at **Nefa Teknik Otomasyon**.
+<p align="center">
+I build <b>scalable web applications</b>, integrate <b>AI-powered automation</b>,<br/>
+and ship clean, production-ready systems.
+</p>
 
 ---
 
-### 🛠️ Skills & Tools
+## 🧠 What I Do
 
-Technologies and tools I use in my development process:
+### 🌐 Web Engineering (Primary)
+- Next.js / React web applications
+- Performance-focused, SEO-friendly architectures
+- Dashboards, SaaS frontends, internal tools
+- API-driven systems
 
-<div align="center">
+### 🤖 AI & Automation
+- AI-powered web tools & agents
+- Workflow automation to reduce manual work
+- OpenAI & custom AI integrations
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <br/>
+### 📱 Mobile (Secondary)
+- Flutter apps supporting web platforms
+- Clean architecture & shared logic
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-</div>
+> Less noise. More impact.
 
 ---
 
-### 💼 Experience
+## 🛠️ Tech Stack
 
-**Engineering Intern | Nefa Teknik Otomasyon**
-*(July 2025 - August 2025)*
-* 📡 Collection and analysis of production data via API and database.
-* 🐍 Data processing and basic reporting studies using Python/SQL.
-* 📊 Created simple dashboard prototypes for operational data.
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20Automation-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 🚀 What I Build
 
-Feel free to reach out!
+- 🌍 Web platforms & SaaS products
+- 🤖 AI-powered web applications
+- ⚙️ Automation-first backend systems
+- 📱 Companion mobile apps
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/onderbakir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:onderb007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
+## 🧭 Current Focus
+
+```json
+{
+  "primary": "Web Engineering",
+  "secondary": ["AI Automation", "Mobile (Flutter)"],
+  "mindset": "Clean, scalable, useful",
+  "status": "Open to high-impact collaborations"
+}
