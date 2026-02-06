@@ -1,23 +1,32 @@
-## Hi there 👋
 # Hello, I'm Önder Bakır! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Information%20Systems%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=onder007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=onder007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="onder007 trophies" />
+  </a>
 </div>
 
 ### 🚀 About Me
 
-[cite_start]I am an **Information Systems Engineering** student at **Mehmet Akif Ersoy University**[cite: 6, 15]. [cite_start]I have a strong passion for software development and IT technologies[cite: 6]. [cite_start]I am an investigative, fast learner with strong analytical thinking skills[cite: 6, 7]. [cite_start]My goal is to apply my technical skills in real-world business environments and gain further industry experience[cite: 7].
+I am an **Information Systems Engineering** student at **Mehmet Akif Ersoy University**. I have a strong passion for software development and IT technologies. I am an investigative, fast learner with strong analytical thinking skills. My goal is to apply my technical skills in real-world business environments and gain further industry experience.
 
-* [cite_start]🔭 I am currently working on **Deep Learning and OOP** concepts[cite: 17].
-* [cite_start]🌱 I develop data analysis and automation processes using **Python and SQL**[cite: 11, 17].
-* [cite_start]🎓 I gained experience as an **Engineering Intern** at **Nefa Teknik Otomasyon**[cite: 9, 10].
+* 🔭 I am currently working on **Deep Learning and OOP** concepts.
+* 🌱 I develop data analysis and automation processes using **Python and SQL**.
+* 🎓 I gained experience as an **Engineering Intern** at **Nefa Teknik Otomasyon**.
 
 ---
 
 ### 🛠️ Skills & Tools
 
-[cite_start]Technologies and tools I use in my development process[cite: 17]:
+Technologies and tools I use in my development process:
 
 <div align="center">
 
@@ -46,20 +55,11 @@
 
 ### 💼 Experience
 
-**Engineering Intern | [cite_start]Nefa Teknik Otomasyon** [cite: 9, 10]
-[cite_start]*(July 2025 - August 2025)* [cite: 18]
-* [cite_start]📡 Collection and analysis of production data via API and database[cite: 11].
-* [cite_start]🐍 Data processing and basic reporting studies using Python/SQL[cite: 11].
-* [cite_start]📊 Created simple dashboard prototypes for operational data[cite: 12].
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onder007&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Önder's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder007&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+**Engineering Intern | Nefa Teknik Otomasyon**
+*(July 2025 - August 2025)*
+* 📡 Collection and analysis of production data via API and database.
+* 🐍 Data processing and basic reporting studies using Python/SQL.
+* 📊 Created simple dashboard prototypes for operational data.
 
 ---
 
@@ -75,17 +75,7 @@ Feel free to reach out!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<!--
-**onder007/onder007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
