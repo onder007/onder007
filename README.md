@@ -3,56 +3,65 @@
 </p>
 
 <h3 align="center">
-Web Engineer · AI Automation · Mobile (Flutter)
+Information Systems Engineer · Backend Developer · Data Analysis
 </h3>
 
 <p align="center">
-I build <b>scalable web applications</b>, integrate <b>AI-powered automation</b>,<br/>
-and ship clean, production-ready systems.
+I build <b>backend systems</b>, develop <b>data-driven applications</b>,<br/>
+and create solutions using <b>Python & .NET technologies</b>.
 </p>
 
 ---
 
 ## 🧠 What I Do
 
-### 🌐 Web Engineering (Primary)
-- Next.js / React web applications
-- Performance-focused, SEO-friendly architectures
-- Dashboards, SaaS frontends, internal tools
-- API-driven systems
+### 💻 Backend & Web Development
+- ASP.NET MVC & C# architecture
+- RESTful API development & integration
+- Database management (SQL & PostgreSQL)
+- HTML, CSS, JavaScript for frontend interfaces
 
-### 🤖 AI & Automation
-- AI-powered web tools & agents
-- Workflow automation to reduce manual work
-- OpenAI & custom AI integrations
+### 📊 Data & AI
+- Python-based data processing & automation
+- Deep Learning research & implementation
+- Operational data analysis & reporting
 
-### 📱 Mobile (Secondary)
-- Flutter apps supporting web platforms
-- Clean architecture & shared logic
+### ⚙️ Engineering Concepts
+- Object-Oriented Programming (OOP)
+- Analytical thinking & problem solving
+- Agile adaptation & fast learning
 
-> Less noise. More impact.
+> Analyzing data. Building systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/AI%20Automation-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 What I Build
 
-- 🌍 Web platforms & SaaS products
-- 🤖 AI-powered web applications
-- ⚙️ Automation-first backend systems
-- 📱 Companion mobile apps
+- 🌍 ASP.NET based web applications
+- 🐍 Python automation scripts
+- 🗄️ Database-driven backend systems
+- 🤖 Deep Learning models
 
 ---
 
@@ -60,8 +69,8 @@ and ship clean, production-ready systems.
 
 ```json
 {
-  "primary": "Web Engineering",
-  "secondary": ["AI Automation", "Mobile (Flutter)"],
-  "mindset": "Clean, scalable, useful",
-  "status": "Open to high-impact collaborations"
+  "primary": "Information Systems Engineering",
+  "secondary": ["Deep Learning", "OOP Architecture"],
+  "learning": "Advanced Data Analysis",
+  "status": "Open to new opportunities"
 }
