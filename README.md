@@ -1,6 +1,6 @@
 # Hi, I'm Önder 👋
 
-**Computer Engineering student & backend developer** based in Kocaeli, Turkey.
+**Information Systems Engineer & backend developer** based in Kocaeli, Turkey.
 I like building systems that work with data: backends, automation, and a bit of computer vision.
 
 ---
@@ -37,11 +37,17 @@ Most of these live in private repositories for now.
 
 ---
 
+### Education
+
+🎓 **B.Sc. Information Systems Engineering**: Burdur Mehmet Akif Ersoy University, Bucak Faculty of Technology
+
+---
+
 ### Currently
 
 - Deepening my data analysis and deep learning skills
 - Working on OOP and software architecture
-- Open to internships and new opportunities
+- Open to new opportunities
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=onder007&show_icons=true&hide_border=true&theme=transparent" />
