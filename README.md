@@ -1,55 +1,99 @@
-# Hi, I'm Önder 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:3b1d6e,100:9d4edd&text=Önder%20Bakır&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Information%20Systems%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Önder Bakır" />
 
-**Information Systems Engineer & backend developer** based in Kocaeli, Turkey.
-I like building systems that work with data: backends, automation, and a bit of computer vision.
+<div align="center">
 
----
+<a href="https://github.com/onder007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B388FF&center=true&vCenter=true&width=620&lines=Backend+systems+%7C+Python+%26+.NET;Real-time+computer+vision+with+TensorFlow;Browser+security+tooling+(Chrome+MV3);Turning+data+into+working+software" alt="typing animation" />
+</a>
 
-### What I work with
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Konum](https://img.shields.io/badge/Kocaeli,_Türkiye-0d1117?style=for-the-badge&logo=googlemaps&logoColor=B388FF)
+![Durum](https://img.shields.io/badge/Open_to_work-3b1d6e?style=for-the-badge&logo=githubsponsors&logoColor=white)
+![Profil](https://komarev.com/ghpvc/?username=onder007&style=for-the-badge&color=9d4edd&label=Profile+views)
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+</div>
 
 ---
 
-### What I've built
+## 👨‍💻 About
 
-- **Fatigue & attention tracking system**: real-time drowsiness detection with OpenCV and TensorFlow, streamed to a Django/React control panel over WebSockets.
-- **Web security scanner**: a Chrome extension (Manifest V3) that crawls for dead links and passively checks pages for common security issues.
-- **Library automation**: a React + TypeScript app for managing books, members and loans.
-- **QR code tool**: generates and reads QR codes from the camera with Python, Tkinter and OpenCV.
-
-Most of these live in private repositories for now.
+I'm an **Information Systems Engineer** who likes the full path from raw data to a working product: database, backend, interface and the model in between. I work mostly with **Python** and **C# / ASP.NET**, and I enjoy projects where software meets the real world, like cameras, browsers and live data streams.
 
 ---
 
-### Education
+## 🧰 Tech Stack
 
-🎓 **B.Sc. Information Systems Engineering**: Burdur Mehmet Akif Ersoy University, Bucak Faculty of Technology
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,dart&theme=dark" alt="languages" />
+
+**Frameworks & Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,django,react,nextjs,flutter,vite&theme=dark" alt="frameworks" />
+
+**Data, AI & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,tensorflow,opencv,git,github,vscode,visualstudio&theme=dark" alt="tools" />
+
+</div>
 
 ---
 
-### Currently
+## 🚀 Featured Projects
 
-- Deepening my data analysis and deep learning skills
-- Working on OOP and software architecture
-- Open to new opportunities
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪖 Fatigue &amp; Attention Tracking System</h3>
+      Real-time detection of drowsiness and inattention from a camera feed, with voice alerts and live reporting to a central control panel.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Web Scanner Security Suite</h3>
+      A Chrome extension that crawls pages for broken links and passively checks for common security issues such as weak CSP and email spoofing settings.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Library Pro</h3>
+      A library automation app for managing books, members and loans, with a clean and responsive interface.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔳 QR Code Studio</h3>
+      A desktop tool that generates QR codes from URLs and reads them live from the camera.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=onder007&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onder007&layout=compact&hide_border=true&theme=transparent" />
-</p>
+<sub>Most of these projects are in private repositories for now.</sub>
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Information Systems Engineering**<br/>
+Burdur Mehmet Akif Ersoy University · Bucak Faculty of Technology
+
+---
+
+## 🎯 Focus
+
+- 🧠 Deepening data analysis and deep learning
+- 🏗️ Cleaner backend architecture and OOP design
+- 🔍 Security-minded web tooling
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9d4edd,50:3b1d6e,100:0d1117&section=footer" alt="" />
