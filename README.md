@@ -9,20 +9,19 @@
 <br/>
 
 ![Konum](https://img.shields.io/badge/Kocaeli,_Türkiye-0d1117?style=for-the-badge&logo=googlemaps&logoColor=B388FF)
-![Durum](https://img.shields.io/badge/Open_to_work-3b1d6e?style=for-the-badge&logo=githubsponsors&logoColor=white)
 ![Profil](https://komarev.com/ghpvc/?username=onder007&style=for-the-badge&color=9d4edd&label=Profile+views)
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## About
 
 I'm an **Information Systems Engineer** who likes the full path from raw data to a working product: database, backend, interface and the model in between. I work mostly with **Python** and **C# / ASP.NET**, and I enjoy projects where software meets the real world, like cameras, browsers and live data streams.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -39,12 +38,12 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🪖 Fatigue &amp; Attention Tracking System</h3>
+      <h3>Fatigue &amp; Attention Tracking System</h3>
       Real-time detection of drowsiness and inattention from a camera feed, with voice alerts and live reporting to a central control panel.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -53,7 +52,7 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Web Scanner Security Suite</h3>
+      <h3>Web Scanner Security Suite</h3>
       A Chrome extension that crawls pages for broken links and passively checks for common security issues such as weak CSP and email spoofing settings.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -63,14 +62,14 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Library Pro</h3>
+      <h3>Library Pro</h3>
       A library automation app for managing books, members and loans, with a clean and responsive interface.<br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔳 QR Code Studio</h3>
+      <h3>QR Code Studio</h3>
       A desktop tool that generates QR codes from URLs and reads them live from the camera.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -83,17 +82,17 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. in Information Systems Engineering**<br/>
 Burdur Mehmet Akif Ersoy University · Bucak Faculty of Technology
 
 ---
 
-## 🎯 Focus
+## Focus
 
-- 🧠 Deepening data analysis and deep learning
-- 🏗️ Cleaner backend architecture and OOP design
-- 🔍 Security-minded web tooling
+- Deepening data analysis and deep learning
+- Cleaner backend architecture and OOP design
+- Security-minded web tooling
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9d4edd,50:3b1d6e,100:0d1117&section=footer" alt="" />
