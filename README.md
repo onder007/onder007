@@ -9,6 +9,7 @@
 <br/>
 
 ![Konum](https://img.shields.io/badge/Kocaeli,_Türkiye-0d1117?style=for-the-badge&logo=googlemaps&logoColor=B388FF)
+[![Website](https://img.shields.io/badge/onderbakir.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=B388FF)](https://onderbakir.com)
 ![Profil](https://komarev.com/ghpvc/?username=onder007&style=for-the-badge&color=9d4edd&label=Profile+views)
 
 </div>
@@ -29,10 +30,10 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
 <img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,dart&theme=dark" alt="languages" />
 
 **Frameworks & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,django,react,nextjs,flutter,vite&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=dotnet,django,react,nextjs,flutter&theme=dark" alt="frameworks" />
 
 **Data, AI & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,tensorflow,opencv,git,github,vscode,visualstudio&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=postgres,tensorflow,opencv,vite,git,github&theme=dark" alt="tools" />
 
 </div>
 
@@ -52,7 +53,7 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h3>Web Scanner Security Suite</h3>
+      <h3><a href="https://webscanner.onderbakir.com">Web Scanner Security Suite</a></h3>
       A Chrome extension that crawls pages for broken links and passively checks for common security issues such as weak CSP and email spoofing settings.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -79,6 +80,12 @@ I'm an **Information Systems Engineer** who likes the full path from raw data to
 </table>
 
 <sub>Most of these projects are in private repositories for now.</sub>
+
+---
+
+## Experience
+
+**Software Developer** · XON Technology · Feb 2026 – now
 
 ---
 
