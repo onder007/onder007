@@ -14,6 +14,7 @@ Outside work I build small developer tools: Chrome extensions, Cloudflare functi
 **recently pushed** · refreshed daily
 
 <!-- recent:start -->
+- `2026-10-14` [drive-video-proxy](https://github.com/onder007/drive-video-proxy) · Stream Google Drive videos in your own video player through a Cloudflare Pages Function, with an allowlist and Range support.
 - `2026-10-14` [web-scanner](https://github.com/onder007/web-scanner) · Web Scanner Chrome extension: site, privacy policy and support
 <!-- recent:end -->
 
