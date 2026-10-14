@@ -1,105 +1,50 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:3b1d6e,100:9d4edd&text=Önder%20Bakır&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Information%20Systems%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Önder Bakır" />
+# Önder Bakır
 
-<div align="center">
+Software Engineer at [XON](https://xon.net.tr) in Kocaeli, Türkiye. I work on [puq.ai](https://puq.ai), a visual automation platform for AI workflows. I also edit video and make motion graphics, and lately I render that motion work from code.
 
-<a href="https://github.com/onder007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=B388FF&center=true&vCenter=true&width=620&lines=Backend+systems+%7C+Python+%26+.NET;Real-time+computer+vision+with+TensorFlow;Browser+security+tooling+(Chrome+MV3);Turning+data+into+working+software" alt="typing animation" />
-</a>
+B.Sc. in Information Systems Engineering, Burdur Mehmet Akif Ersoy University.
 
-<br/>
+## What I build
 
-![Konum](https://img.shields.io/badge/Kocaeli,_Türkiye-0d1117?style=for-the-badge&logo=googlemaps&logoColor=B388FF)
-[![Website](https://img.shields.io/badge/onderbakir.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=B388FF)](https://onderbakir.com)
-![Profil](https://komarev.com/ghpvc/?username=onder007&style=for-the-badge&color=9d4edd&label=Profile+views)
+- **Automation and AI workflows.** puq.ai at work. On the side, scripted pipelines that drive a headless browser and ffmpeg.
+- **Chrome extensions.** Manifest V3, React and Vite.
+- **Web apps and sites.** React and Next.js apps, static sites on Cloudflare Pages.
+- **Video and motion graphics.** Short-form video and ad creatives for brands, plus promo films built as code.
 
-</div>
+## Selected projects
 
----
+### [Web Scanner](https://webscanner.onderbakir.com)
 
-## About
+Chrome extension that finds broken links and grades a site's security basics with passive checks: HTTPS, security headers, cookie flags, SPF and DMARC, exposed files like `.env` or source maps. Pro findings come with the fix for the server the site runs on. Scans and history stay in your browser. Built with React, Vite and CRXJS. The Chrome Web Store listing is coming soon. Site source: [onder007/web-scanner](https://github.com/onder007/web-scanner).
 
-I'm an **Information Systems Engineer** who likes the full path from raw data to a working product: database, backend, interface and the model in between. I work mostly with **Python** and **C# / ASP.NET**, and I enjoy projects where software meets the real world, like cameras, browsers and live data streams.
+### [onderbakir.com](https://onderbakir.com) and [design.onderbakir.com](https://design.onderbakir.com)
 
----
+My developer and design portfolios. Static HTML, CSS and JavaScript on Cloudflare Pages. A Pages Function streams the design site's videos from Google Drive.
 
-## Tech Stack
+### Fatigue tracking system (private)
 
-<div align="center">
+A webcam client finds the driver's eyes with Haar cascades, and a small Keras CNN labels each eye open or closed. When the alertness score drops, the client sounds an alarm and sends critical alarms to a Django backend. The backend pushes live scores and alarms to a React dashboard over WebSockets.
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,dart&theme=dark" alt="languages" />
+### Promo film renderer (private)
 
-**Frameworks & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,django,react,nextjs,flutter&theme=dark" alt="frameworks" />
+Deterministic HTML canvas scenes that a Python script captures frame by frame in headless Chromium with Playwright, then encodes with ffmpeg. NumPy and SciPy synthesize the music.
 
-**Data, AI & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,tensorflow,opencv,vite,git,github&theme=dark" alt="tools" />
+Most of my repos are private. Ask me if you want a walkthrough.
 
-</div>
+## Tech I use
 
----
+These come from the code in my repositories.
 
-## Featured Projects
+- **Languages:** Python, JavaScript, TypeScript, Dart, HTML, CSS
+- **Web:** React, Next.js, Vite, Chrome Extensions (MV3), Three.js
+- **Backend and data:** Django, Django REST Framework, Django Channels, Firebase (Auth, Firestore, Cloud Messaging), Supabase Storage
+- **AI and computer vision:** TensorFlow / Keras, OpenCV, Gemini API
+- **Automation and media:** Playwright, ffmpeg, NumPy, SciPy
+- **Apps:** Flutter, PyQt5
+- **Hosting and CI:** Cloudflare Pages, Vercel, GitHub Actions
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Fatigue &amp; Attention Tracking System</h3>
-      Real-time detection of drowsiness and inattention from a camera feed, with voice alerts and live reporting to a central control panel.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://webscanner.onderbakir.com">Web Scanner Security Suite</a></h3>
-      A Chrome extension that crawls pages for broken links and passively checks for common security issues such as weak CSP and email spoofing settings.<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Library Pro</h3>
-      A library automation app for managing books, members and loans, with a clean and responsive interface.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>QR Code Studio</h3>
-      A desktop tool that generates QR codes from URLs and reads them live from the camera.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=black" />
-    </td>
-  </tr>
-</table>
+## Contact
 
-<sub>Most of these projects are in private repositories for now.</sub>
-
----
-
-## Experience
-
-**Software Developer** · XON Technology · Feb 2026 – now
-
----
-
-## Education
-
-**B.Sc. in Information Systems Engineering**<br/>
-Burdur Mehmet Akif Ersoy University · Bucak Faculty of Technology
-
----
-
-## Focus
-
-- Deepening data analysis and deep learning
-- Cleaner backend architecture and OOP design
-- Security-minded web tooling
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9d4edd,50:3b1d6e,100:0d1117&section=footer" alt="" />
+- Website: [onderbakir.com](https://onderbakir.com)
+- X: [@onderbakir](https://x.com/onderbakir)
+- LinkedIn: [linkedin.com/in/onderbakir](https://www.linkedin.com/in/onderbakir)
