@@ -1,41 +1,24 @@
-<img src="assets/banner.png" alt="Önder Bakır: software engineer, automation, Chrome extensions, web, video and motion" width="100%">
+<samp>
 
-Software engineer at [XON](https://xon.net.tr) in Kocaeli, Türkiye. I work on [puq.ai](https://puq.ai), a visual automation platform for AI workflows. I also edit video and make motion graphics, and lately I render that motion work from code.
+**Önder Bakır** · software engineer at [XON](https://xon.net.tr) · Kocaeli, TR
 
-B.Sc. in Information Systems Engineering, Burdur Mehmet Akif Ersoy University.
+I work on [puq.ai](https://puq.ai), a visual automation platform for AI workflows, and [puq code](https://puq.sh), its coding agent for the terminal.
+Outside work I build small developer tools: Chrome extensions, Cloudflare functions and site checkers.
 
-## Selected projects
+**now** · October 2026
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Web Scanner**](https://webscanner.onderbakir.com) | Chrome extension that finds broken links and grades a site's security basics with passive checks: HTTPS, security headers, cookie flags, SPF and DMARC, exposed files like `.env` or source maps. Scans and history stay in your browser. Chrome Web Store listing coming soon. Site source: [onder007/web-scanner](https://github.com/onder007/web-scanner) | React, Vite, CRXJS, MV3 |
-| [**onderbakir.com**](https://onderbakir.com) / [**design.onderbakir.com**](https://design.onderbakir.com) | My developer and design portfolios. A Pages Function streams the design site's videos from Google Drive. | HTML, CSS, JS, Cloudflare Pages |
-| **Fatigue tracking system** (private) | A webcam client finds the driver's eyes with Haar cascades and a small Keras CNN labels each eye open or closed. Critical alarms go to a Django backend, which pushes live scores to a React dashboard over WebSockets. | Python, OpenCV, Keras, Django Channels, React |
-| **Promo film renderer** (private) | Deterministic HTML canvas scenes captured frame by frame in headless Chromium, encoded with ffmpeg. NumPy and SciPy synthesize the music. | Playwright, ffmpeg, Python |
+- shipping puq code releases at work
+- [Web Scanner](https://webscanner.onderbakir.com): Chrome extension that finds broken links and runs passive security checks. Store listing on the way.
+- opening up the small tools behind my own sites, one repo at a time
 
-Most of my repos are private. Ask me if you want a walkthrough.
+**recently pushed** · refreshed daily
 
-## What I build
+<!-- recent:start -->
+- `2026-10-14` [web-scanner](https://github.com/onder007/web-scanner) · Web Scanner Chrome extension: site, privacy policy and support
+<!-- recent:end -->
 
-- **Automation and AI workflows.** puq.ai at work. On the side, scripted pipelines that drive a headless browser and ffmpeg.
-- **Chrome extensions.** Manifest V3, React and Vite.
-- **Web apps and sites.** React and Next.js apps, static sites on Cloudflare Pages.
-- **Video and motion graphics.** Short-form video and ad creatives for brands, plus promo films built as code.
+**stack** · Python · TypeScript · React · Django · Chrome MV3 · Cloudflare Pages · Playwright
 
-## Tech I use
+[onderbakir.com](https://onderbakir.com) · [x.com/onderbakir](https://x.com/onderbakir) · [linkedin](https://www.linkedin.com/in/onderbakir)
 
-These come from the code in my repositories.
-
-| | |
-|---|---|
-| Languages | Python, JavaScript, TypeScript, Dart, HTML, CSS |
-| Web | React, Next.js, Vite, Chrome Extensions (MV3), Three.js |
-| Backend and data | Django, Django REST Framework, Django Channels, Firebase, Supabase Storage |
-| AI and computer vision | TensorFlow / Keras, OpenCV, Gemini API |
-| Automation and media | Playwright, ffmpeg, NumPy, SciPy |
-| Apps | Flutter, PyQt5 |
-| Hosting and CI | Cloudflare Pages, Vercel, GitHub Actions |
-
-## Contact
-
-[onderbakir.com](https://onderbakir.com) · [X @onderbakir](https://x.com/onderbakir) · [LinkedIn](https://www.linkedin.com/in/onderbakir)
+</samp>
