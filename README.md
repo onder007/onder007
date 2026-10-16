@@ -8,7 +8,7 @@ Outside work I build small developer tools: Chrome extensions, Cloudflare functi
 **now** · October 2026
 
 - shipping puq code releases at work
-- [Web Scanner](https://webscanner.onderbakir.com): Chrome extension that finds broken links and runs passive security checks. Store listing on the way.
+- [Web Scanner](https://webscanner.onderbakir.com): Chrome extension that finds broken links and runs passive security checks. Now on the [Chrome Web Store](https://chromewebstore.google.com/detail/pnnfoicflgjgmomkaeopjidbbejejipm).
 - opening up the small tools behind my own sites, one repo at a time
 
 **recently pushed** · refreshed daily
