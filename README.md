@@ -14,7 +14,7 @@ Outside work I build small developer tools: Chrome extensions, Cloudflare functi
 **recently pushed** · refreshed daily
 
 <!-- recent:start -->
-- `2026-10-28` [web-scanner](https://github.com/onder007/web-scanner) · Web Scanner Chrome extension: site, privacy policy and support
+- `2026-10-30` [web-scanner](https://github.com/onder007/web-scanner) · Web Scanner Chrome extension: site, privacy policy and support
 - `2026-10-27` [mac-app-skill](https://github.com/onder007/mac-app-skill) · Agent skill for building macOS apps from the terminal: SwiftPM, no Xcode. Bundling, permissions (TCC), signing, notarization, DMG, and a verifier for built .app bundles.
 - `2026-10-24` [orbit](https://github.com/onder007/orbit) · A ring menu for files on macOS: hold a file, pick a conversion or edit, get the result next to the original. Runs fully on your Mac.
 - `2026-10-18` [drive-video-proxy](https://github.com/onder007/drive-video-proxy) · Stream Google Drive videos in your own video player through a Cloudflare Pages Function, with an allowlist and Range support.
